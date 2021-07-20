@@ -1,4 +1,5 @@
 echo "hii";
 echo "welcome";
 echo "to git_project";
-echo "adding a line"
+echo "adding a line";
+echo "working directory";
