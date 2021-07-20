@@ -1,5 +1,8 @@
 echo "hii";
 echo "welcome";
+<<<<<<< HEAD
 echo "to git_project";
 echo "deleting a line";
 echo "working directory";
+=======
+>>>>>>> test
